@@ -28,8 +28,8 @@ Density Exchange Reactjs is a creative landing page showcasing a variety of anim
 
 Follow these steps to get the project up and running on your local machine:
 
-1. Clone this repository: `git clone https://github.com/Namrata0407/Density-Exchange-Reactjs.git`
-2. Navigate to the project directory: `cd Density-Exchange-Reactjs`
+1. Clone this repository: `git clone https://github.com/pratikbhavarthe/Density-Exchange-Webpage`
+2. Navigate to the project directory: `cd density-exchange-webpage`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm run dev`
 5. Open your browser and visit: `http://localhost:3000`
@@ -38,10 +38,4 @@ Follow these steps to get the project up and running on your local machine:
 
 Once the application is up and running, you can explore the various animations and visual effects showcased on the landing page. Feel free to interact with different sections to see the animations in action.
 
-## Contributing
 
-Contributions are welcome! If you find any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. Make sure to follow the project's code of conduct.
-
----
-
-Enjoy exploring the captivating animations and the creative design of Density Exchange Reactjs! For any questions or inquiries, please contact [namrataawasthi077@gmail.com](mailto:your-email@example.com).
