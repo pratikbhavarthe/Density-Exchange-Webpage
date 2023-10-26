@@ -2,20 +2,16 @@
 
 
 
-## Demo
-https://github.com/Namrata0407/Density-Exchange-Reactjs/assets/112812835/bbd28d37-72b7-4eac-a771-25bb44355589
-
-
-
 ## Introduction
 
-Density Exchange Reactjs is a creative landing page showcasing a variety of animations using Next.js, Chakra UI, Framer Motion, and GSAP. It aims to provide a visually appealing experience for users interested in exploring different types of animations.
+ Density Exchange has assigned the assesment task of creating a captivating landing page called Ahead App Redesign Conecept using Next.Js, Tailwind CSS. This project showcases diverse animations using Next.js, Chakra UI, Framer Motion, and GSAP, aiming to deliver an engaging experience for users interested in exploring different animation techniques.
 
 ## Features
 
-- Engaging animations to capture users' attention.
-- Smooth transitions and visual effects powered by Framer Motion and GSAP.
-- Responsive design for optimal viewing on various devices.
+- Captivating animations designed to grab users' attention.
+- Seamless transitions and visually appealing effects enabled by Framer Motion and GSAP.
+- Responsive layout ensuring optimal display across different devices.
+
 
 ## Tech Stack
 
@@ -34,8 +30,6 @@ Follow these steps to get the project up and running on your local machine:
 4. Start the development server: `npm run dev`
 5. Open your browser and visit: `http://localhost:3000`
 
-## Usage
 
-Once the application is up and running, you can explore the various animations and visual effects showcased on the landing page. Feel free to interact with different sections to see the animations in action.
 
 
